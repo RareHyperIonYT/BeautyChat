@@ -1,0 +1,16 @@
+# BeautyChat Configuration File.
+# If you have any problems please create a GitHub issue.
+#
+# This plugin supports PlaceholderAPI so if we don't have the placeholder
+# that you need here, you will likely find it there.
+# https://wiki.placeholderapi.com/users/placeholder-list/
+#
+# Placeholders:
+#  {message}     - The message the player has sent.
+#  {username}    - The username of the player.
+#  {displayname} - The display name / nickname of the player.
+#  {prefix}      - The players highest priority prefix.
+#  {suffix}      - The players highest priority suffix.
+#  {world}       - The name of the world the player is currently in.
+
+chat-format: "{prefix}&r{username}&r: {message}"

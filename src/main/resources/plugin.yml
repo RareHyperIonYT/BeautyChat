@@ -1,0 +1,13 @@
+name: BeautyChat
+version: '1.0.0'
+author: RareHyperIon
+main: me.RareHyperIon.BeautyChat.BeautyChat
+softdepend: [Vault, PlaceholderAPI, LuckPerms, GroupManager]
+commands:
+  beautychat:
+    description: "Reload the BeautyChat plugin."
+    usage: "Usage: /beautychat reload"
+permissions:
+  beautychat.reload:
+    description: "Permission to reload BeautyChat."
+    default: op
