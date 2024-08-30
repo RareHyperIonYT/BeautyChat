@@ -25,7 +25,7 @@ BeautyChat supports a variety of placeholders to customize your chat format:
 To configure BeautyChat, modify the `config.yml` file in the plugin's directory.
 
 <details>
-  <summary>Click to expand <code>config.yml</code></summary>
+  <summary>config.yml</summary>
 
   ```yml
     # BeautyChat Configuration File.
