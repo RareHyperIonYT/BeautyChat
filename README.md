@@ -49,7 +49,7 @@ To configure BeautyChat, modify the `config.yml` file in the plugin's directory.
 </details>
 
 ## Installation
-1. **Download BeautyChat:** Get the latest release from the [GitHub Release](https://example.com/esex)
+1. **Download BeautyChat:** Get the latest release from the [GitHub Release](https://github.com/RareHyperIonYT/BeautyChat/releases)
 2. **Place in Plugins Folder:** Move the downloaded jar file into your servers `plugins` folder.
 3. **Restart Server:** Restart your Minecraft server to load the plugin.
 
